@@ -1,5 +1,7 @@
 # Gantt Chart
 
+[![View Gantt Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116970-gantt-chart)
+
 Version: 1.0
 
 Visualizes the start and end dates of various tasks in a project.
