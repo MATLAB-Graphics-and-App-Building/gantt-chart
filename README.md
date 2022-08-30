@@ -4,7 +4,7 @@ Version: 1.0
 
 Visualizes the start and end dates of various tasks in a project.
 
-![Example of Gantt Chart using four different tasks in a research project.](https://insidelabs-git.mathworks.com/charting/chartsforfileexchange/-/raw/filled_line_chart/gantt-chart/ganttChart.png)
+![Example of Gantt Chart using four different tasks in a research project.](./ganttChart.png)
 
 
 ## Syntax
