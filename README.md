@@ -1,6 +1,7 @@
 # Gantt Chart
 
 [![View Gantt Chart on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/116970-gantt-chart)
+(https://www.mathworks.com/matlabcentral/fileexchange/116970-gantt-chart) [![Open in MATLAB Online]
 
 Version: 1.0
 
